@@ -7,6 +7,8 @@ A cette date trois développements m'ont semblé intéressant du point de vue de
 + Arduino
 + ESP8266
 
+Un bon tutoriel d'introduction pour l'ESP8266 est sur Instructable https://www.instructables.com/class/Internet-of-Things-Class/ 
+
  # appinventor
  Développé par MIT pour les besoins des enseigants et trop largement utilisé par des développeurs étrangers a ce milieu ont amené les supporteurs a former  thunkablenitiaux a formeer un projet 
 
