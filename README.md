@@ -15,7 +15,8 @@ Un bon tutoriel d'introduction pour l'ESP8266 est sur Instructable https://www.i
 # thunkable
 Fork monétisable de appinventor créé pour permettre le support de appinventor hors du contexte de l'enseignement. 
 L'IDE web classique est actuellemet en migration vers le xIDE et tous les blocs de l'environnement classique ne sont pas migrés 
-et le développement semble asses lent.
+et le développement semble assez lent.   
+Les versions X et classiques sont incompatibles ce qui force les développeurs a réécrire leurs app pour y effectuer des mofif. Ca provoque une forte grogne.
 
 # blynk
 Est un autre IDE web qui semble largement utilisé pour créer des APP Osx mais aussi Android . 
