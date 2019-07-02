@@ -12,7 +12,8 @@ Un bon tutoriel d'introduction pour l'ESP8266 est sur Instructable https://www.i
  # appinventor
  Développé par MIT pour les besoins des enseigants et trop largement utilisé par des développeurs étrangers a ce milieu ont amené les supporteurs  de MIT a former Thunkable pour monétiser le support du produit.   
  Après avoir survolé thunkable & blynk il m'apparaît que pour mes besoins qui en sont d'apprentissage de l'architecture des IOT monitorés et controlés par une tablette Android seront mieux servis en investissant dans l'apprentissage de AI2. Cependant,la communication entre l'aplication et l'ESP ou l'arduino est plus complexe.   
- A première vue Redis AI2 peut utiliser Redis qui possède des librairies sur Esp32 et aussi en Python sur RaspburryPi et pourrais donc servir de support de communication entre Android et les devices Iot.
+ A première vue AI2 peut utiliser Redis qui possède des librairies sur Esp32 et aussi en Python sur RaspburryPi et pourrais donc servir de support de communication entre Android et les devices Iot.  
+ Aussi Redis AI2 peut utiliser Firebase dont le serveur est maintenu par Google.
 
 # thunkable
 Fork monétisable de appinventor créé pour permettre le support de appinventor hors du contexte de l'enseignement. 
