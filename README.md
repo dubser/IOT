@@ -15,7 +15,14 @@ Un bon tutoriel d'introduction pour l'ESP8266 est sur Instructable https://www.i
  A première vue AI2 peut utiliser Redis qui possède des librairies sur Esp32 et aussi en Python sur RaspburryPi et pourrais donc servir de support de communication entre Android et les devices Iot.  
  Aussi Redis AI2 peut utiliser Firebase dont le serveur est maintenu par Google.   
 
-https://opensourceforu.com/2016/10/web-database-using-app-inventor-2/
+https://opensourceforu.com/2016/10/web-database-using-app-inventor-2/   
+
+
+Aussi un bel exemple d'UIO basé sur AI2 qui interface directement un ESP32 est documenté ici:
+
+https://groups.google.com/forum/#!searchin/mitappinventortest/connectivity$20web%7Csort:date/mitappinventortest/QtuQ1Iivpc4/6WAdXvlpCwAJ   
+
+
   
 
 # thunkable
