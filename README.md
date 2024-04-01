@@ -6,6 +6,7 @@ A cette date trois développements m'ont semblé intéressant du point de vue de
 + RaspberryPi
 + Arduino
 + ESP8266
++ ESP32 Puisque 8266 est maintenant dépassé. 
 
 Un bon tutoriel d'introduction pour l'ESP8266 est sur Instructable https://www.instructables.com/class/Internet-of-Things-Class/ 
 
