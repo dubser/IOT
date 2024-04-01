@@ -9,7 +9,8 @@ A cette date trois développements m'ont semblé intéressant du point de vue de
 + ESP32 Puisque 8266 est maintenant dépassé. 
 
 Un bon tutoriel d'introduction pour l'ESP8266 est sur Instructable https://www.instructables.com/class/Internet-of-Things-Class/ 
-Des essais fonctionnels ont été effectués avec Bkluetooth Serial et une application Android , voir le détail ici: https://github.com/dubser/BluetoothSerial
+
+Des essais fonctionnels ont été effectués avec Bluetooth Serial et une application Android , voir le détail ici: https://github.com/dubser/BluetoothSerial
 
  # appinventor
  Développé par MIT pour les besoins des enseigants et trop largement utilisé par des développeurs étrangers a ce milieu ont amené les supporteurs  de MIT a former Thunkable pour monétiser le support du produit.   
