@@ -23,6 +23,8 @@ Aussi un bel exemple d'UIO basé sur AI2 qui interface directement un ESP32 est 
 
 https://groups.google.com/forum/#!searchin/mitappinventortest/connectivity$20web%7Csort:date/mitappinventortest/QtuQ1Iivpc4/6WAdXvlpCwAJ   
 
+Des essais fonctionnels ont été effectués avec Bkluetooth Serial et une application Android , voir le détail ici: https://github.com/dubser/BluetoothSerial
+
 
   
 
